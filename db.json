@@ -7,6 +7,25 @@
   "results": [
     {
       "adult": false,
+      "backdrop_path": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 897087,
+      "original_language": "en",
+      "original_title": "Freelance",
+      "overview": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+      "popularity": 1546.524,
+      "poster_path": "/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+      "release_date": "2023-10-05",
+      "title": "Freelance",
+      "video": false,
+      "vote_average": 6.441,
+      "vote_count": 161
+    },
+    {
+      "adult": false,
       "backdrop_path": "/45zVtZx6Tzx3RKeDziK25K9geFf.jpg",
       "genre_ids": [
         16,
@@ -26,25 +45,6 @@
       "video": false,
       "vote_average": 7.124,
       "vote_count": 307
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
-      "id": 897087,
-      "original_language": "en",
-      "original_title": "Freelance",
-      "overview": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
-      "popularity": 1546.524,
-      "poster_path": "/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
-      "release_date": "2023-10-05",
-      "title": "Freelance",
-      "video": false,
-      "vote_average": 6.441,
-      "vote_count": 161
     },
     {
       "adult": false,
